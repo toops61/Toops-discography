@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/Toops-discography/static/css/main.12f63d44.css",
-    "main.js": "/Toops-discography/static/js/main.332401f2.js",
+    "main.css": "/Toops-discography/static/css/main.ffa2a73b.css",
+    "main.js": "/Toops-discography/static/js/main.678ef69f.js",
     "static/media/fa-solid-900.ttf": "/Toops-discography/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
-    "static/media/discs_mini.webp": "/Toops-discography/static/media/discs_mini.3180df96c1d11e43dc25.webp",
     "static/media/fa-brands-400.ttf": "/Toops-discography/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
     "static/media/fa-solid-900.woff2": "/Toops-discography/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/discot_portrait3.webp": "/Toops-discography/static/media/discot_portrait3.400c1a39a7fa3c383e51.webp",
     "static/media/discs_960.webp": "/Toops-discography/static/media/discs_960.750e32d943afb67794a5.webp",
     "static/media/fa-brands-400.woff2": "/Toops-discography/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
     "static/media/wanted_1.webp": "/Toops-discography/static/media/wanted_1.69a28384c36accc1d489.webp",
@@ -13,11 +13,11 @@
     "static/media/wanted_2.webp": "/Toops-discography/static/media/wanted_2.74748b3d0215111fea8c.webp",
     "static/media/fa-regular-400.woff2": "/Toops-discography/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
     "index.html": "/Toops-discography/index.html",
-    "main.12f63d44.css.map": "/Toops-discography/static/css/main.12f63d44.css.map",
-    "main.332401f2.js.map": "/Toops-discography/static/js/main.332401f2.js.map"
+    "main.ffa2a73b.css.map": "/Toops-discography/static/css/main.ffa2a73b.css.map",
+    "main.678ef69f.js.map": "/Toops-discography/static/js/main.678ef69f.js.map"
   },
   "entrypoints": [
-    "static/css/main.12f63d44.css",
-    "static/js/main.332401f2.js"
+    "static/css/main.ffa2a73b.css",
+    "static/js/main.678ef69f.js"
   ]
 }
