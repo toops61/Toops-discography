@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Toops-discography/static/css/main.4153ac45.css",
+    "main.css": "/Toops-discography/static/css/main.10437a88.css",
     "main.js": "/Toops-discography/static/js/main.678ef69f.js",
     "static/media/fa-solid-900.ttf": "/Toops-discography/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
     "static/media/fa-brands-400.ttf": "/Toops-discography/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
@@ -13,11 +13,11 @@
     "static/media/wanted_2.webp": "/Toops-discography/static/media/wanted_2.74748b3d0215111fea8c.webp",
     "static/media/fa-regular-400.woff2": "/Toops-discography/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
     "index.html": "/Toops-discography/index.html",
-    "main.4153ac45.css.map": "/Toops-discography/static/css/main.4153ac45.css.map",
+    "main.10437a88.css.map": "/Toops-discography/static/css/main.10437a88.css.map",
     "main.678ef69f.js.map": "/Toops-discography/static/js/main.678ef69f.js.map"
   },
   "entrypoints": [
-    "static/css/main.4153ac45.css",
+    "static/css/main.10437a88.css",
     "static/js/main.678ef69f.js"
   ]
 }
